@@ -68,8 +68,3 @@ void msDelay(uint32_t msTime){
 	*/
 	for(uint32_t i=0; i<msTime*4000; i++);
 }
-
-/*
-
-6.3.10 RCC AHB1 peripheral clock register (RCC_AHB1ENR)
-*/
