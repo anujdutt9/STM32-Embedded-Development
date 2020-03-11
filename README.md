@@ -14,3 +14,9 @@ STM32 Embedded Software Development.
 **1.** [STM32F429ZI Discovery Development Board](https://www.st.com/en/evaluation-tools/32f429idiscovery.html)
 
 **2.** [STM32F407VG Discovery Board](https://www.st.com/en/evaluation-tools/stm32f4discovery.html)
+
+|   Name    |                               Description                              |   Status    |
+| --------- | ---------------------------------------------------------------------- | ----------- |
+| Blink LED | Program to Blink LED on STM32F429ZI Discovery Board with/without CubeMx and using Registers. | Completed |
+| Push Button | Program to toggle LED's on User button press on STM32F429ZI Discovery Board with/without CubeMx. | Completed |
+| Analog to Digital Converter (ADC) | Program to read data from Potentiometer using ADC0 IN0 pin and converting to digital output with/without CubeMx and using registers. | Ongoing |
