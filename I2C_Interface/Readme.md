@@ -1,5 +1,7 @@
 # I2C Interface
 
+This folder implements the code for I2C interface of an Accelerometer sensor of an IMU with STM32F429ZI board.
+
 ## Steps for creating CubeMX Project
 
 1. Create a new project in STM32 CubeMX.
