@@ -18,5 +18,6 @@ STM32 Embedded Software Development.
 |   Name    |                               Description                              |   Status    |
 | --------- | ---------------------------------------------------------------------- | ----------- |
 | Blink LED | Program to Blink LED on STM32F429ZI Discovery Board with/without CubeMx and using Registers. | Completed |
-| Push Button | Program to toggle LED's on User button press on STM32F429ZI Discovery Board with/without CubeMx. | Completed |
-| Analog to Digital Converter (ADC) | Program to read data from Potentiometer using ADC0 IN0 pin and converting to digital output with/without CubeMx and using registers. | Ongoing |
+| Push Button | Program to toggle LED's on User button press on STM32F429ZI Discovery Board with/without CubeMX. | Completed |
+| Analog to Digital Converter (ADC) | Program to read data from Potentiometer using ADC0 IN0 pin and converting to digital output with/without CubeMX and using registers. | Completed |
+| I2C Interface | Program to read and write data from/to an Accelerometer over I2C with/without CubeMX. | Completed |
